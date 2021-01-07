@@ -36,6 +36,30 @@ https://developer.apple.com/
 ### 11. 애플(Apple) 안내에 따라 결제을 진행하면 엔터프라이즈 계정을 발급 받게 됩니다. 하지만 계정 발급 후 2주후부터 엔터프라이즈 계정을 사용할 수 있습니다.
 
 ---
+## Apple Developer Account Entity Type
+
+1. Individual
+    * DUNS Number 불필요.
+    * 연도당 미화 $99.
+    * 앱스토어 배포 전 애플 심사를 통과해야 함.
+    * 심사를 통과하면 애플사가 앱스토어에 직접 올려줌.
+2. Company / Organization
+    * DUNS Number 필요.
+    * 연도당 미화 $99.
+    * 앱스토어 배포 전 애플 심사를 통과해야 함.
+    * 심사를 통과하면 애플사가 앱스토어에 직접 올려줌.
+    * App store 판매용.
+    * 조직 웹 사이트 필요.
+3. In-House / Enterprise
+    * DUNS Number 필요.
+    * 연도당 미화 $299.
+    * 직원용으로 설계/배포.
+    * 조직 웹 사이트 필요.
+
+* 조직 웹 사이트 도메인 이름은 회사와 연관성 있는 것이어야 하고 계정 신청 메일 주소도 도메인 메일 주소여야 함.
+* 1, 2번 앱이 판매용이라면 3번은 사내직원 및 고객에게 서비스용으로 사용하기 위한 앱이다.
+
+---
 ## D-U-N-S Number
 D-U-N-S Number(Data Universal Numbering System)는 Dun & Bradstreet 에서 개별기업에 부여하는 개별기업 인식코드입니다. 
 엔터프라이즈 계정을 신청 시 D-U-N-S Number 가 필요합니다. 계정 신청 창에서 D-U-N-S Number 을 모를 시 메일로 전송 요청할 수 있으며만약 D-U-N-S 정보 등록에 대한 정보 업데이트가 안되었다면 Apple D-U-N-S 정보 업데이트 신청할 수 있습니다.
