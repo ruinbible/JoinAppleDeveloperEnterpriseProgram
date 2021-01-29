@@ -2,6 +2,18 @@
 Guide to joining the Apple Developer Enterprise Program
 
 ---
+## ㅈㅣㄴㅎㅐㅇㅈㅓㄹㅊㅏ
+
+1. (고객 > D&B) DUNS 번호 신청 
+2. (D&B) DUNS 번호 발급 (소요일수: 약 7 일)
+3. (D&B > Apple) Apple DB에 DUNS 번호 등록 (소요일수: 약 14 영업일)
+4. (고객 > Apple) Apple Enterprise Program 가입
+5. (Apple > 고객) 가입 신청 후 Apple에서 고객에게 확인 전화  (소요일수: 약 3일)
+6. (Apple > 고객) License 비용 결제 메일 발송 (소요일수: 약 3일)
+7. (고객 > Apple) 비용 결제 처리
+8. (Apple > 고객) 결제 완료 확인 후 최종 가입 승인 메일 발송 (소요일수: 약 3일)
+
+---
 ## 엔터프라이즈 프로그램(Enterprise Program) 가입 신청
 
 ### 1. 애플 디벨로퍼 사이트에 접속합니다.
